@@ -1,5 +1,5 @@
 new Vue({
-  el: "#myApp",
+  el: "#llamaLovers",
   data: {
     title: "10 Llama Facts",
 	fact1:"1",
