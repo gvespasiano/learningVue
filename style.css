@@ -1,0 +1,14 @@
+body {
+	font-family:sans-serif;;
+}
+h1{
+	border-bottom:2px solid red;
+	border-left:2px solid red;
+	position:relative;
+	left:200px;
+}
+ol{
+	border-left:2px solid blue;
+	border-top:2px solid blue;
+	padding-top:20px;
+}
