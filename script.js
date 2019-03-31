@@ -1,3 +1,4 @@
+//vue addition of llama fact li items
 new Vue({
   el: "#llamaLovers",
   data: {
